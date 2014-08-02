@@ -3,9 +3,6 @@ My Laptop Requirements
 
 Minimum Hardware
 ----------------
-
-Item                      Spec
-----                      ----
 - CPU:                    Core i5 or i7
 - RAM:                    8GB or 16GB
 - Screen size:            13", 14", 15.4"
@@ -15,4 +12,4 @@ Item                      Spec
 
 Software
 --------
-- Ubuntu or any Linux OS
+- OS:                     Ubuntu or any Linux OS
